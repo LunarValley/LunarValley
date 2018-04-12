@@ -1,6 +1,13 @@
-html {
-    background: #03193d;
+body {
+    background-color: #03193d;
 }
 #Logo-and-NavBar {
-    color: fuchsia;
+    background-color: fuchsia;
+    position: static;
+    width: 100%;
+}
+#Logo-and-NavBar > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
