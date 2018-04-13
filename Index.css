@@ -4,7 +4,7 @@ body {
 #Logo-and-NavBar {
     background-color: fuchsia;
     position: static;
-    height: 100%;
+    width: 100%;
 }
 #Logo-and-NavBar > ul {
     list-style-type: none;
